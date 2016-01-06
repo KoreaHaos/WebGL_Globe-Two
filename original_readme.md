@@ -1,12 +1,12 @@
-# **Google's WebGL Globe**
+The **WebGL Globe** is an open platform for geographic data visualization created by the Google Data Arts Team. We encourage you to copy the code, add your own data, and create your own globes.
+
+Check out the examples at http://www.chromeexperiments.com/globe, and if you create a globe, please [share it with us](http://www.chromeexperiments.com/submit). We post our favorite globes publicly.
 
 ![](http://4.bp.blogspot.com/-nB6XnTgb4AA/TcLQ4gRBtfI/AAAAAAAAH-U/vb2GuhPN6aM/globe.png)
 
 ----
 
-**[Google's  WebGL Globe](https://www.chromeexperiments.com/globe)** looks nice on their website, but for some reason, i can not get it work with the GitHub [fork](https://github.com/dataarts/webgl-globe).
-
-This is another attempt at figuring out this little puzzle.
+**The WebGL Globe** supports data in `JSON` format, a sample of which you can find [here](https://github.com/dataarts/webgl-globe/blob/master/globe/population909500.json). `webgl-globe` makes heavy use of the [Three.js library](https://github.com/mrdoob/three.js/).
 
 # Data Format
 
