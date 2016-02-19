@@ -6,7 +6,7 @@
 
 **[Google's  WebGL Globe](https://www.chromeexperiments.com/globe)** looks super nice on their website, but for because i am dumb, i can not get it work with the GitHub [fork](https://github.com/dataarts/webgl-globe).
 
-This is another attempt at figuring out this little puzzle.
+This is another attempt at figuring out this little puzzle...
 
 # Data Format
 
